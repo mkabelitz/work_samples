@@ -1,0 +1,13 @@
+/**
+ * @file UFInstantiation.h.in
+ * @author YOUR NAME <YOUR EMAIL ADDRESS>
+ *
+ * @version 2016-04-28
+ * Created on 2016-04-28.
+ */
+
+#include "${Prefix}Module.h"
+
+namespace smtrat {
+${INSTANTIATIONS}
+}
